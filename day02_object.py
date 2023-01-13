@@ -12,6 +12,8 @@ elif secret > guess:
 elif secret < guess:
     print('too low!')
 
+# 이후에 반복해서 이를 비교하여 secret을 구하는 법을 알고 싶습니다.
+
 # 4-2
 small = False
 green = True
